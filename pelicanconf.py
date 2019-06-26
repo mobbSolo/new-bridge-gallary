@@ -3,26 +3,25 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'markie_tee'
-SITENAME = 'New Bridge Art Gallary'
+SITENAME = 'The New Bridge Gallary'
 SITEURL = ''
 
 PATH = 'content'
-
 PAGE_PATHS = ['pages']
-
 ARTICLE_PATHS = ['articles']
-
 STATIC_PATHS = ['img', 'pdf']
 
 TIMEZONE = 'America/Denver'
-
 DEFAULT_LANG = 'en'
 
 THEME = 'theme'
 
 PLUGIN_PATHS = ['plugins/', ]
 
-PLUGINS = ['i18n_subsites', ]
+PLUGINS = ['i18n_subsites',
+            'liquid_tags',
+            'pelican-bootstrapify',
+]
 
 BOOTSTRAP_THEME = 'flatly'
 
