@@ -60,3 +60,5 @@ PAGE_URL = 'pages/{slug}/'
     # 'Author': 'Markie Tee',
     # 'Category': 'testing',
 # }
+
+#FAVICON = ('img/eye-tri_32-alpha.png')
