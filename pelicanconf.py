@@ -14,13 +14,12 @@ STATIC_PATHS = ['img', 'pdf']
 TIMEZONE = 'America/Denver'
 DEFAULT_LANG = 'en'
 
-THEME = 'theme'
+THEME = 'pelican-bootstrap3/'
 
 PLUGIN_PATHS = ['plugins/', ]
 
 PLUGINS = ['i18n_subsites',
             'liquid_tags',
-            'pelican-bootstrapify',
 ]
 
 BOOTSTRAP_THEME = 'flatly'
