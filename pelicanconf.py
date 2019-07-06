@@ -6,23 +6,22 @@ AUTHOR = 'markie_tee'
 SITENAME = 'The New Bridge Gallary'
 SITEURL = ''
 
+TIMEZONE = 'America/Denver'
+DEFAULT_LANG = 'en'
+
 PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
 STATIC_PATHS = ['img', 'pdf']
-
-TIMEZONE = 'America/Denver'
-DEFAULT_LANG = 'en'
-
-THEME = 'pelican-bootstrap3/'
-
 PLUGIN_PATHS = ['plugins/', ]
 
 PLUGINS = ['i18n_subsites',
             'liquid_tags',
 ]
 
-BOOTSTRAP_THEME = 'flatly'
+THEME = 'pelican-bootstrap3/'
+
+# BOOTSTRAP_THEME = 'flatly'
 
 PYGMENTS_STYLE = 'monokai'
 
@@ -38,10 +37,10 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Raitman Art', 'https://www.raitmanart.com/'),
-         ('The Mitchell Gallary', 'https://www.mitchellcontemporary.com/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('Glenwood Hot Springs', 'https://www.hotspringspool.com'),
+         ('Hotel Colorado', 'https://www.hotelcolorado.com/'),
+         ('Brew Garden', 'https://www.glenwoodspringsbrewgarden.com/'),
+)
 
 # Social widget
 SOCIAL = (('You can add links in your config file', '#'),
