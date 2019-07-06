@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'markie_tee'
+AUTHOR = 'New Bridge Art'
 SITENAME = 'The New Bridge Gallary'
 SITEURL = ''
 
@@ -21,7 +21,7 @@ PLUGINS = ['i18n_subsites',
 
 THEME = 'pelican-bootstrap3/'
 
-# BOOTSTRAP_THEME = 'flatly'
+BOOTSTRAP_THEME = 'flatly'
 
 PYGMENTS_STYLE = 'monokai'
 
