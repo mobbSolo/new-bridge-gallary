@@ -51,7 +51,6 @@
         {% endif %}
         {% import 'includes/translations.html' as translations with context %}
         {{ translations.translations_for(page) }}
-        {% import 'includes/carousel.html' %}
         {% if PDF_PROCESSOR %}
             <a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">
                 get the pdf

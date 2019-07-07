@@ -17,6 +17,7 @@ PLUGIN_PATHS = ['plugins/', ]
 
 PLUGINS = ['i18n_subsites',
             'liquid_tags',
+            'jinja2content',
 ]
 
 THEME = 'pelican-bootstrap3/'
@@ -25,6 +26,7 @@ BOOTSTRAP_THEME = 'flatly'
 
 PYGMENTS_STYLE = 'monokai'
 
+JINJA2CONTENT_TEMPLATES = ['jinja_temp']
 JINJA_ENVIRONMENT = {
     'extensions': ['jinja2.ext.i18n'],
 }
@@ -43,7 +45,7 @@ LINKS = (('Glenwood Hot Springs', 'https://www.hotspringspool.com'),
 )
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('Instagram', 'https://www.instagram.com/newbridgeart/?igshid=14s7ehw1k5syo'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 5
