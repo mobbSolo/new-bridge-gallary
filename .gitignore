@@ -2,7 +2,6 @@ cache
 drafts
 images
 output
-content/img/
 content/pdf/
 node_modules
 npm-debug.log

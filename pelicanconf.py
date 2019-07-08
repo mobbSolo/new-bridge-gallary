@@ -23,6 +23,7 @@ PLUGINS = ['i18n_subsites',
 THEME = 'pelican-bootstrap3/'
 
 BOOTSTRAP_THEME = 'flatly'
+PHOTO_LIBRARY = "content/img"
 
 PYGMENTS_STYLE = 'monokai'
 
