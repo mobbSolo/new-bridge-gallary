@@ -16,8 +16,8 @@ STATIC_PATHS = ['img', 'pdf']
 PLUGIN_PATHS = ['plugins/', ]
 
 PLUGINS = ['i18n_subsites',
-            'liquid_tags',
             'jinja2content',
+            'photos',
 ]
 
 THEME = 'pelican-bootstrap3/'
