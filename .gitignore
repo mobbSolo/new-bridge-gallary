@@ -10,6 +10,7 @@ geckodriver.log
 virtualenv
 venv
 tags
+.tags
 .envrc
 .env
 Session.vim
