@@ -7,12 +7,18 @@ Summary: Welcome To The New Bridge Art Gallery
 Template: home_page
 Save_as: index.html
 
-We show works by Colorado artists in the Aspen Roaring Fork Valley.
+-------------------------------------------------------------------
+####We feature works by Colorado artists in the Roaring Fork Valley.
+#####Such As:
+ * Joe Srholez
+ * Richard S. Beyer
+ * David Alvarez
 
- * Kristoph Kosmowski etc
- * Other Guy
+-----------------------------------------------
 
 {% include 'carousel.html' %}
 
+---
 
-We have a studio in the basement were we write music & paint.
+####Our new location is just across the street at 212 6th Street.
+####Doors are open throughout the week until 7 o'clock or so.

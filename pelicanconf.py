@@ -4,6 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = 'New Bridge Art'
 SITENAME = 'The New Bridge Gallary'
+SITELOGO = 'img/new_bridge_small.gif'
+SITELOGO_SIZE = 150
+HIDE_SITENAME = True
 SITEURL = ''
 
 TIMEZONE = 'America/Denver'
@@ -43,6 +46,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (('Glenwood Hot Springs', 'https://www.hotspringspool.com'),
          ('Hotel Colorado', 'https://www.hotelcolorado.com/'),
          ('Brew Garden', 'https://www.glenwoodspringsbrewgarden.com/'),
+         ('Painters Stage', 'https://paintersstage.bandcamp.com/'),
 )
 
 # Social widget
@@ -63,3 +67,5 @@ PAGE_URL = 'pages/{slug}/'
 # }
 
 #FAVICON = ('img/eye-tri_32-alpha.png')
+
+DISPLAY_CATEGORIES_ON_MENU = False
