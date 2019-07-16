@@ -5,9 +5,12 @@ from __future__ import unicode_literals
 AUTHOR = 'New Bridge Art'
 SITENAME = 'The New Bridge Gallary'
 SITELOGO = 'img/new_bridge_small.gif'
-SITELOGO_SIZE = 150
+SITELOGO_SIZE = 125
 HIDE_SITENAME = True
 SITEURL = ''
+
+# Add custom CSS overrides sitewide
+CUSTOM_CSS = 'static/css/custom.css'
 
 TIMEZONE = 'America/Denver'
 DEFAULT_LANG = 'en'
@@ -15,9 +18,13 @@ DEFAULT_LANG = 'en'
 PATH = 'content'
 PAGE_PATHS = ['pages']
 ARTICLE_PATHS = ['articles']
-STATIC_PATHS = ['img', 'pdf']
+# Tell Pelican to add files from here to the output dir
+STATIC_PATHS = ['img', 'extra']
+# Tell Pelican to change the path to 'static/custom.css' in the output dir
+EXTRA_PATH_METADATA = {
+    'extra/custom.css': {'path': 'static/css/custom.css'},
+}
 PLUGIN_PATHS = ['plugins/', ]
-
 PLUGINS = ['i18n_subsites',
             'jinja2content',
             'photos',
@@ -25,7 +32,9 @@ PLUGINS = ['i18n_subsites',
 
 THEME = 'pelican-bootstrap3/'
 
-BOOTSTRAP_THEME = 'flatly'
+SIDEBAR_ON_LEFT = False
+
+BOOTSTRAP_THEME = 'yeti'
 PHOTO_LIBRARY = "~/dev/nb_photos"
 
 PYGMENTS_STYLE = 'monokai'
@@ -42,6 +51,7 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+LINKS_WIDGET_NAME = 'Friends'
 # Blogroll
 LINKS = (('Glenwood Hot Springs', 'https://www.hotspringspool.com'),
          ('Hotel Colorado', 'https://www.hotelcolorado.com/'),
@@ -60,11 +70,6 @@ DEFAULT_PAGINATION = 5
 ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}/'
-
-# DEFAULT_METADATA = {
-    # 'Author': 'Markie Tee',
-    # 'Category': 'testing',
-# }
 
 #FAVICON = ('img/eye-tri_32-alpha.png')
 
