@@ -5,6 +5,7 @@ from __future__ import unicode_literals
 AUTHOR = 'New Bridge Art'
 SITENAME = 'The New Bridge Gallary'
 SITELOGO = 'img/new_bridge_small.gif'
+FAVICON = 'img/favicon.gif'
 SITELOGO_SIZE = 125
 HIDE_SITENAME = True
 SITEURL = ''
