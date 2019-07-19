@@ -10,19 +10,14 @@ Save_as: index.html
 -------------------------------------------------------------------
 ####Featuring works by Colorado artists in the Roaring Fork Valley.
 #####Such As:
+ * Kristof Kosmowski
  * Joe Srholez
  * Richard S. Beyer
  * David Alvarez
 
------------------------------------------------
 
+<br/>
 
 {% include 'carousel.html' %}
 
 
----
-
-* Maybe add the rest of the markdown inside the carousel.html page?*
-
-#####Our new location is just across the street at 212 6th Street.
-#####Doors are open throughout the week until 7 o'clock or so.

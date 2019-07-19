@@ -11,6 +11,7 @@ SITEURL = ''
 
 # Add custom CSS overrides sitewide
 CUSTOM_CSS = 'static/css/custom.css'
+GOOGLE_WEBFONTS = 'Raleway:light,extralight,bold'
 
 TIMEZONE = 'America/Denver'
 DEFAULT_LANG = 'en'

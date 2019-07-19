@@ -58,6 +58,12 @@
         <meta name="flattr:id" content="{{ FLATTR_ID }}">
     {% endif %}
 
+    <!--Google Web Fonts-->
+    <!--<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">-->
+    {% if GOOGLE_WEBFONTS %}
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family={{ GOOGLE_WEBFONTS }}">
+    {% endif %}
+
     <!-- Bootstrap -->
     {% if BOOTSTRAP_THEME %}
         <link rel="stylesheet" href="{{ SITEURL }}/{{ THEME_STATIC_DIR }}/css/bootstrap.{{ BOOTSTRAP_THEME }}.min.css" type="text/css"/>
