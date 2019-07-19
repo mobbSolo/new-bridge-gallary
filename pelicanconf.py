@@ -37,7 +37,13 @@ THEME = 'pelican-bootstrap3/'
 SIDEBAR_ON_LEFT = False
 
 BOOTSTRAP_THEME = 'yeti'
+
+# photo plugin ============================
 PHOTO_LIBRARY = "~/dev/nb_photos"
+PHOTO_ARTICLE = (760, 506, 80)
+PHOTO_SQUARE_THUMB = False
+PHOTO_RESIZE_JOBS = 3
+PHOTO_WATERMARK = True
 
 PYGMENTS_STYLE = 'monokai'
 
@@ -51,6 +57,7 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
+PHOTO_EXIF_COPYRIGHT = 'COPYRIGHT'
 AUTHOR_FEED_RSS = None
 
 LINKS_WIDGET_NAME = 'Friends'
