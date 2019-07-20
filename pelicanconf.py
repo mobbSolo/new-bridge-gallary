@@ -33,10 +33,9 @@ PLUGINS = ['i18n_subsites',
 ]
 
 THEME = 'pelican-bootstrap3/'
-
 SIDEBAR_ON_LEFT = False
-
 BOOTSTRAP_THEME = 'yeti'
+PADDED_SINGLE_COLUMN_STYLE = False
 
 # photo plugin ============================
 PHOTO_LIBRARY = "~/dev/nb_photos"
