@@ -4,7 +4,7 @@ Date: 2019-05-18
 Category: Main
 Summary: Contact Information
 Image: {photo}old_barn.jpg
-
+<style>.entry-content p { text-align: center; }</style>
 ---
 
 ### We are also available for Murals and Events
@@ -13,9 +13,10 @@ Image: {photo}old_barn.jpg
 
 <img src="{static}/photos/old_barnt.jpg" id="contact-img" alt="barn">
 
-[Maks Kosmowski](mailto:maks@glenwoodspringsart.com)<br/>
+<br/>
+[Maks](mailto:maks@glenwoodspringsart.com)<br/>
 [Noemi](mailto:Noemi@glenwoodspringsart.com)<br/>
-[Kris](mailto:Kris@glenwoodspringsart.com)<br/>
+[Kris](mailto:Kris@glenwoodspringsart.com)
 
 <br/>
 212 6th Street<br/>
