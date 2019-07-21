@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
+LOAD_CONTENT_CACHE = False
 AUTHOR = 'New Bridge Art'
 SITENAME = 'The New Bridge Gallary'
 SITELOGO = 'img/new_bridge_small.gif'

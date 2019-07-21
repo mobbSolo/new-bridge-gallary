@@ -10,12 +10,13 @@ Image: {photo}old_barn.jpg
 ### We are also available for Murals and Events
 <br/>
 
+<!--[barn]({static}/photos/old_barnt.jpg) {#contact-img}-->
 
 <img src="{static}/photos/old_barnt.jpg" id="contact-img" alt="barn">
 
 [Maks Kosmowski](mailto:maks@glenwoodspringsart.com)<br/>
-[Noemi](mailto:Noemi@glenwoodspringsart.com)<br/>
-[Kris](mailto:Kris@glenwoodspringsart.com)<br/>
+[Noemi Kosmowski](mailto:Noemi@glenwoodspringsart.com)<br/>
+[Kris Kosmowski](mailto:Kris@glenwoodspringsart.com)<br/>
 
 <br/>
 212 6th Street<br/>

@@ -4,8 +4,9 @@
   /*margin-right: auto;*/
 /*}*/
 
-.entry-content img {
+#contact-img {
   display: inline; float: right; margin: 2px 0 2ex 4ex;
+  box-shadow: 4px 3px 6px rgba(0, 0, 0, .5);
 }
 
 .site-logo {
