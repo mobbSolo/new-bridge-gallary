@@ -4,10 +4,10 @@ Date: 2019-05-18
 Category: Main
 Summary: Contact Information
 Image: {photo}old_barn.jpg
-<style>.entry-content p { text-align: center; }</style>
+<style>.entry-content p { text-align: left; padding-left: 1em; }</style>
 ---
 
-### We are also available for Murals and Events
+### We are available for Murals and Events
 <br/>
 
 
