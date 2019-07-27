@@ -14,7 +14,7 @@ Image: {photo}old_barn.jpg
 <img src="{static}/photos/old_barnt.jpg" id="contact-img" alt="barn">
 
 <br/>
-[Maks](mailto:maks@glenwoodspringsart.com)<br/>
+[Max](mailto:maks@glenwoodspringsart.com)<br/>
 [Noemi](mailto:Noemi@glenwoodspringsart.com)<br/>
 [Kris](mailto:Kris@glenwoodspringsart.com)
 
