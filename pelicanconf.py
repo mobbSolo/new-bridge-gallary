@@ -66,12 +66,12 @@ LINKS_WIDGET_NAME = 'Friends'
 LINKS = (('Glenwood Hot Springs', 'https://www.hotspringspool.com'),
          ('Hotel Colorado', 'https://www.hotelcolorado.com/'),
          ('Brew Garden', 'https://www.glenwoodspringsbrewgarden.com/'),
-         ('Painters Stage', 'https://paintersstage.bandcamp.com/'),
+         ('Painters Stage Music', 'https://paintersstage.bandcamp.com/'),
 )
 
 # Social widget
 SOCIAL = (('Instagram', 'https://www.instagram.com/newbridgeart/?igshid=14s7ehw1k5syo'),
-          ('Another social link', '#'),)
+          ('Facebook', '#'),)
 
 DEFAULT_PAGINATION = 5
 

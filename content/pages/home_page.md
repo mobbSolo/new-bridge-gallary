@@ -10,7 +10,7 @@ Status: hidden
 -------------------------------------------------------------------
 ####Featuring works by Colorado artists in the Roaring Fork Valley.
 #####Such As:
- * Kristof Kosmowski
+ * Noemi & Kristof Kosmowski
  * Joe Srholez
  * Richard S. Beyer
  * David Alvarez

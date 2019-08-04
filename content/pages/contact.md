@@ -3,15 +3,15 @@ Author: Markie Tee
 Date: 2019-05-18
 Category: Main
 Summary: Contact Information
-Image: {photo}old_barn.jpg
-<style>.entry-content p { text-align: left; padding-left: 1em; }</style>
+Image: {photo}cherub_toast.jpg
+<style>.entry-content p { text-align: left; padding-left: 1em; } .contact-img { width: 100px; }</style>
 ---
 
-### We are available for Murals and Events
+### We are also available for Murals and Events
 <br/>
 
 
-<img src="{static}/photos/old_barnt.jpg" id="contact-img" alt="barn">
+<img src="{static}/photos/cherub_toasta.jpg" id="contact-img" alt="cherubs toast">
 
 <br/>
 [Max](mailto:maks@glenwoodspringsart.com)<br/>
