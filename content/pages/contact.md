@@ -4,14 +4,14 @@ Date: 2019-05-18
 Category: Main
 Summary: Contact Information
 Image: {photo}cherub_toast.jpg
-<style>.entry-content p { text-align: left; padding-left: 1em; } .contact-img { width: 100px; }</style>
+<style>.entry-content p { text-align: left; padding-left: 1em; } .entry-content img { max-width: 66%; }</style>
 ---
 
 ### We are also available for Murals and Events
 <br/>
 
 
-<img src="{static}/photos/cherub_toasta.jpg" id="contact-img" alt="cherubs toast">
+<img src="/photos/cherub_toasta.jpg" id="contact-img" alt="cherubs toast">
 
 <br/>
 [Max](mailto:maks@glenwoodspringsart.com)<br/>
