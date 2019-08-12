@@ -4,11 +4,12 @@ from selenium import webdriver
 
 class FunctionalTest(unittest.TestCase): 
 
-    def setUp(self):
-        self.driver = webdriver.Firefox()
-        # self.driver.implicitly_wait(10)
+    @classmethod
+    def setUpClass(inst):
+        inst.driver = webdriver.Firefox()
+        inst.driver.implicitly_wait(30)
         # self.driver.maximize_window()
-        self.driver.get("https://www.glenwoodspringsart.com/")
+        inst.driver.get("https://www.glenwoodspringsart.com/")
 
     def test_home_title(self):
         self.assertIn("The New Bridge Gallary", self.driver.title)
@@ -17,8 +18,9 @@ class FunctionalTest(unittest.TestCase):
         # elem = self.driver.find_element_by_class_name("navbar-brand")
         # self.assertIn("new_bridge_small.gif", elem)
 
-    def tearDown(self):
-        self.driver.close()
+    @classmethod
+    def tearDownClass(inst):
+        inst.driver.quit()
 
 if __name__ == "__main__":
     unittest.main()
