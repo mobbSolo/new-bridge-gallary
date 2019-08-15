@@ -38,13 +38,14 @@ SIDEBAR_ON_LEFT = False
 BOOTSTRAP_THEME = 'yeti'
 PADDED_SINGLE_COLUMN_STYLE = False
 
-# photo plugin ============================
+# photo plugin ========================
 PHOTO_LIBRARY = "~/dev/nb_photos"
 PHOTO_ARTICLE = (760, 506, 80)
 PHOTO_SQUARE_THUMB = False
 PHOTO_RESIZE_JOBS = 3
 PHOTO_WATERMARK = True
 PHOTO_WATERMARK_TEXT = "New Bridge Art"
+# =====================================
 
 PYGMENTS_STYLE = 'monokai'
 
@@ -66,12 +67,12 @@ LINKS_WIDGET_NAME = 'Friends'
 LINKS = (('Glenwood Hot Springs', 'https://www.hotspringspool.com'),
          ('Hotel Colorado', 'https://www.hotelcolorado.com/'),
          ('Brew Garden', 'https://www.glenwoodspringsbrewgarden.com/'),
-         ('Painters Stage Music', 'https://paintersstage.bandcamp.com/'),
+         ('Painters Stage Music', 'https://thebash.com/dance-band/painters-stage'),
 )
 
 # Social widget
 SOCIAL = (('Instagram', 'https://www.instagram.com/newbridgeart/?igshid=14s7ehw1k5syo'),
-          ('Facebook', '#'),)
+        ('Bandcamp', 'https://paintersstage.bandcamp.com'),)
 
 DEFAULT_PAGINATION = 5
 
