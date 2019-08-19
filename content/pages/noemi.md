@@ -1,6 +1,7 @@
 Title: Noemi
 Date: 2019-08-14
 Summary: Noemi's Bio
+Status: draft
 
 Noemi was born in Warsaw, Poland in 1955 from a family with four generations of professional artists.
 From 1970 through the early eighties, Noemi apprenticed under her famous father assisting him in his studio with a myriad of commissions.  Her father, Zdzislaw Lachur, is best known throughout Poland and Europe for his paintings of Polish Jewish Holocaust survivors.  In 1984, Noemi moved to Germany with her husband, Kristof, where she refined her art techniques and had several private shows.  After a brief stay in New York, Noemi and her family relocated to south Florida.  During that time, Noemi developed a style of realism that is truly technically amazing.  Whether it be strawberries in a reflective cup or olives in a martini glass, her paintings are so life-like that the viewer can almost taste the flavor of the subject.  
