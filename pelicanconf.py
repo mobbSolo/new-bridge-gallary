@@ -10,7 +10,6 @@ SITELOGO = 'img/new_bridge_small.gif'
 FAVICON = 'img/favicon.gif'
 SITELOGO_SIZE = 125
 HIDE_SITENAME = True
-SITEURL = ''
 
 # Add custom CSS overrides sitewide
 CUSTOM_CSS = 'static/css/custom.css'
