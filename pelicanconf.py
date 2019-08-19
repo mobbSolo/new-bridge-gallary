@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
+import os
 
 LOAD_CONTENT_CACHE = False
 AUTHOR = 'New Bridge Art'
@@ -14,6 +15,7 @@ SITEURL = ''
 # Add custom CSS overrides sitewide
 CUSTOM_CSS = 'static/css/custom.css'
 GOOGLE_WEBFONTS = 'Raleway:light,extralight,bold'
+GOOGLE_VARIFY = os.environ['GOOGLE_SEARCH_VARIFY']
 
 TIMEZONE = 'America/Denver'
 DEFAULT_LANG = 'en'
