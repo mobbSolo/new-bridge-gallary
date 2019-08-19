@@ -14,9 +14,9 @@ Image: {photo}cherub_toast.jpg
 <img src="/photos/cherub_toasta.jpg" id="contact-img" alt="cherubs toast">
 
 <br/>
-[Max](mailto:maks@newbridgeart.com)<br/>
-[Noemi](mailto:Noemi@glenwoodspringsart.com)<br/>
-[Kris](mailto:Kriskosmowski@gmail.com.com)
+[Max]  
+[Noemi]  
+[Kris](mailto:Kriskosmowski@gmail.com)
 
 <br/>
 212 6th Street<br/>

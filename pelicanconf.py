@@ -39,6 +39,7 @@ THEME = 'pelican-bootstrap3/'
 SIDEBAR_ON_LEFT = False
 BOOTSTRAP_THEME = 'yeti'
 PADDED_SINGLE_COLUMN_STYLE = False
+DISPLAY_CATEGORIES_ON_MENU = False
 
 # photo plugin ========================
 PHOTO_LIBRARY = "~/dev/nb_photos"
@@ -49,7 +50,6 @@ PHOTO_WATERMARK = True
 PHOTO_WATERMARK_TEXT = "New Bridge Art"
 # =====================================
 
-PYGMENTS_STYLE = 'monokai'
 
 JINJA2CONTENT_TEMPLATES = ['jinja_temp']
 JINJA_ENVIRONMENT = {
@@ -83,7 +83,3 @@ DEFAULT_PAGINATION = 5
 ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}.html'
-
-#FAVICON = ('img/eye-tri_32-alpha.png')
-
-DISPLAY_CATEGORIES_ON_MENU = False
