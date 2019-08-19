@@ -85,3 +85,6 @@ PAGE_URL = 'pages/{slug}.html'
 #FAVICON = ('img/eye-tri_32-alpha.png')
 
 DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
+
+# MENUITEMS = ()
