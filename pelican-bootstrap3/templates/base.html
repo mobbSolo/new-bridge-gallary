@@ -25,7 +25,9 @@
     <link rel="apple-touch-icon" href="{{ SITEURL }}/{{ TOUCHICON }}">
     {% endif %}
 
-    {% block canonical_rel %}{% endblock %}
+    {% block canonical_rel %}
+    <link rel="canonical" href="{{ SITEURL }}/{{ page.url }}">
+    {% endblock %}
 
     {% block meta %}
         <meta name="author" content="{{ AUTHOR }}" />
