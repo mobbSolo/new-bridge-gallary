@@ -13,12 +13,10 @@ Image: {photo}cherub_toast.jpg
 
 <img src="/photos/cherub_toasta.jpg" id="contact-img" alt="cherubs toast">
 
-<br/>
-<!--[Max]  -->
-<!--[Noemi]  -->
-
-####Kris
-Kriskosmowski -AT- gmail -DOT- com
+####E-Mail  
+[Kris](https://mailhide.io/e/4L0Uj)  
+[Noemi](https://mailhide.io/e/SsNxA)   
+[Maks](https://mailhide.io/e/4L0Uj)
 
 <br/>
 212 6th Street<br/>
