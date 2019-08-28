@@ -73,7 +73,8 @@ LINKS = (('Glenwood Hot Springs', 'https://www.hotspringspool.com'),
 
 # Social widget
 SOCIAL = (('Instagram', 'https://www.instagram.com/newbridgeart/?igshid=14s7ehw1k5syo'),
-        ('Bandcamp', 'https://paintersstage.bandcamp.com'),)
+        # ('Bandcamp', 'https://paintersstage.bandcamp.com'),
+)
 
 DEFAULT_PAGINATION = 5
 

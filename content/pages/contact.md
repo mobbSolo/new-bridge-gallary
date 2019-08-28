@@ -14,9 +14,10 @@ Image: {photo}cherub_toast.jpg
 <img src="/photos/cherub_toasta.jpg" id="contact-img" alt="cherubs toast">
 
 ####E-Mail  
-[Kris](https://mailhide.io/e/4L0Uj)  
-[Noemi](https://mailhide.io/e/SsNxA)   
-[Maks](https://mailhide.io/e/4L0Uj)
+<a href="https://mailhide.io/e/4L0Uj" onclick="mailhidepopup=window.open('https://mailhide.io/e/ItpqA','mailhidepopup','width=580,height=635'); return false;">Kris</a></br>
+<a href="https://mailhide.io/e/SsNxA" onclick="mailhidepopup=window.open('https://mailhide.io/e/4L0Uj','mailhidepopup','width=580,height=635'); return false;">Noemi</a></br>
+<a href="https://mailhide.io/e/4L0Uj" onclick="mailhidepopup=window.open('https://mailhide.io/e/ItpqA','mailhidepopup','width=580,height=635'); return false;">Maks</a>
+
 
 <br/>
 212 6th Street<br/>
