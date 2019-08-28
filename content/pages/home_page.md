@@ -6,6 +6,7 @@ Summary: Welcome To The New Bridge Art Gallery
 Template: home_page
 Save_as: index.html
 Status: hidden
+<style>#foots { padding-bottom: 1em }</style>
 
 -------------------------------------------------------------------
 ####Featuring works by Colorado artists in the Roaring Fork Valley.
