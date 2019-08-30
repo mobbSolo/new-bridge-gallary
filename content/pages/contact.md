@@ -1,4 +1,4 @@
-Title: Contact Us
+Title: Contact
 Author: Markie Tee
 Date: 2019-05-18
 Category: Main
