@@ -83,3 +83,10 @@ DEFAULT_PAGINATION = 5
 ARTICLE_URL = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/'
 ARTICLE_SAVE_AS = 'articles/{date:%Y}/{date:%m}/{date:%d}/{slug}/index.html'
 PAGE_URL = 'pages/{slug}.html'
+
+#FAVICON = ('img/eye-tri_32-alpha.png')
+
+DISPLAY_CATEGORIES_ON_MENU = False
+DISPLAY_PAGES_ON_MENU = True
+
+# MENUITEMS = ()
