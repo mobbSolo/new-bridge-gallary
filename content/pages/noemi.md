@@ -3,7 +3,7 @@ Date: 2019-08-14
 Summary: Noemi's Bio
 Status: hidden
 Gallery: {photo}noemi
-<style> p { text-indent: 2em; } p > img { margin-left: -2em } </style>
+<style> p { text-indent: 2em; } p > img { margin-left: -2em } #foots { padding-bottom: 1em }</style>
 
 
 Noemi was born in Warsaw, Poland in 1955 from a family with four generations of professional artists.
