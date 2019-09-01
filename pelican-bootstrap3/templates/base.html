@@ -19,7 +19,38 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
+    <script type='application/ld+json'> 
+    {
+      "@context": "http://www.schema.org",
+      "@type": "ArtGallery",
+      "name": "New Bridge Art Gallery",
+      "url": "https://www.glenwoodspringsart.com",
+      "sameAs": [
+        "http://www.newbridgeart.com"
+      ],
+      "logo": "https://www.glenwoodspringsart.com/img/new_bridge_small.gif",
+      "image": "https://www.glenwoodspringsart.com/img/space_2.jpg",
+      "description": "Colorado fine art and gifts",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "212 6th Street",
+        "addressLocality": "Glenwood Springs",
+        "addressRegion": "Colorado",
+        "postalCode": "81601",
+        "addressCountry": "United States"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "39.550091",
+        "longitude": "-107.325669"
+      },
+      "hasMap": "https://goo.gl/maps/YPLb7GyqKaHDgtCB8",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "9704568548"
+      }
+    }
+    </script>
     {% if 'liquid_tags.notebook' in PLUGINS %}
         {% include 'includes/liquid_tags_nb_header.html' %}
     {% endif %}
