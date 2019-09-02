@@ -1,6 +1,7 @@
 {% extends "base.html" %}
 {% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
 {% block html_lang %}{{ page.lang }}{% endblock %}
+
 {% block meta %}
     {% if page.author %}
         <meta name="author" content="{{ page.author }}" />
@@ -11,6 +12,38 @@
         <meta name="description" content="{{ page.summary|striptags|escape }}" />
     {% endif %}
     {% if GOOGLE_VARIFY %}{{ GOOGLE_VARIFY }}{% endif %}
+    <script type='application/ld+json'> 
+    {
+      "@context": "http://www.schema.org",
+      "@type": "ArtGallery",
+      "name": "New Bridge Art Gallery",
+      "url": "https://www.glenwoodspringsart.com",
+      "sameAs": [
+        "http://www.newbridgeart.com"
+      ],
+      "logo": "https://www.glenwoodspringsart.com/img/new_bridge_small.gif",
+      "image": "https://www.glenwoodspringsart.com/img/space_2.jpg",
+      "description": "Colorado fine art and gifts",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "212 6th Street",
+        "addressLocality": "Glenwood Springs",
+        "addressRegion": "Colorado",
+        "postalCode": "81601",
+        "addressCountry": "United States"
+      },
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "39.550091",
+        "longitude": "-107.325669"
+      },
+      "hasMap": "https://goo.gl/maps/YPLb7GyqKaHDgtCB8",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "9704568548"
+      }
+    }
+    </script>
 {% endblock %}
 {% block opengraph %}
     {% if OPEN_GRAPH_FB_APP_ID %}
