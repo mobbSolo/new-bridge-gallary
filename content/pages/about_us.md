@@ -2,7 +2,7 @@ Title: About Us
 Date: 2019-08-15
 Summary: Meet the Artists
 Gallery: {photo}about
-<style>#foots { padding-bottom: 1em }</style>
+<style>.entry-title { padding-top: 1em; } #foots { padding-bottom: 1em }</style>
 
 <div class="row">
   <div class="col-sm-6">

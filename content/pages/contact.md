@@ -4,7 +4,7 @@ Date: 2019-05-18
 Category: Main
 Summary: Contact Information
 Image: {photo}cherub_toast.jpg
-<style>.entry-content p { text-align: left; padding-left: 1em; } .entry-content img { max-width: 66%; }</style>
+<style>.entry-title { padding-top: 1em; } .entry-content p { text-align: left; padding-left: 1em; } .entry-content img { max-width: 66%; }</style>
 ---
 
 ### We are also available for Murals and Events

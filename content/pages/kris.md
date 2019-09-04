@@ -3,7 +3,9 @@ Date: 2019-08-14
 Summary: Kris' Bio
 Status: hidden
 Gallery: {photo}kris
-<style> p { text-indent: 2em; } p > img { margin-left: -2em } #foots { padding-bottom: 1em }</style>
+<style>.entry-title { padding-top: 1em; } p { text-indent: 2em; } p > img { margin-left: -2em } #foots { padding-bottom: 1em }</style>
+
+---
 
 Kristof Kosmowski was a prodigy in the European art world. He was awarded 25 one man shows in the largest cities of his native Poland by the time he was 25. He was also honored to show his work in the countries of Germany and Finland at such a young age. Kosmowski's training at both the Escola Massana Centre d'Art in Barcelona, Spain and the Academy of Fine Arts in Warsaw, Poland intensified his focus and furthered his career.
 
