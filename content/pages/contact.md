@@ -14,9 +14,9 @@ Image: {photo}cherub_toast.jpg
 <img src="/photos/cherub_toasta.jpg" id="contact-img" alt="cherubs toast">
 
 ####E-Mail  
-<a href="https://mailhide.io/e/4L0Uj" onclick="mailhidepopup=window.open('https://mailhide.io/e/ItpqA','mailhidepopup','width=580,height=635'); return false;">Kris</a></br>
-<a href="https://mailhide.io/e/SsNxA" onclick="mailhidepopup=window.open('https://mailhide.io/e/4L0Uj','mailhidepopup','width=580,height=635'); return false;">Noemi</a></br>
-<a href="https://mailhide.io/e/4L0Uj" onclick="mailhidepopup=window.open('https://mailhide.io/e/ItpqA','mailhidepopup','width=580,height=635'); return false;">Maks</a>
+<a href="https://mailhide.io/e/rUlyq" onclick="mailhidepopup=window.open('https://mailhide.io/e/rUlyq','mailhidepopup','width=580,height=635'); return false;">Kris</a></br>
+<a href="https://mailhide.io/e/SsNxA" onclick="mailhidepopup=window.open('https://mailhide.io/e/SsNxA','mailhidepopup','width=580,height=635'); return false;">Noemi</a></br>
+<a href="https://mailhide.io/e/rS8yM" onclick="mailhidepopup=window.open('https://mailhide.io/e/rS8yM','mailhidepopup','width=580,height=635'); return false;">Maks</a>
 
 
 <br/>
